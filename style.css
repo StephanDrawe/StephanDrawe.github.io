@@ -1,0 +1,25 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+}
+
+.sections{
+    height: 500px;
+    background-color: white;
+}
+#aboutMe{
+    display: grid;
+    height: 600px;
+}
+
+#projects{
+    display: grid;
+    height: 600px;
+}
+#contact{
+    display: default;
+    height: 550px;
+}

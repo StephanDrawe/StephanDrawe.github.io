@@ -1,0 +1,48 @@
+.projectContent{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 5px;
+}
+#s1{
+    padding: 50px;
+    text-align: center;
+    font-size: 2em;
+    border-style: dashed;
+    height: 300px;
+}
+#s2{
+    padding: 50px;
+    text-align: center;
+    font-size: 2em;
+    border-style: dashed;
+    height: 300px;
+}
+#s3{
+    padding: 50px;
+    text-align: center;
+    font-size: 2em;
+    border-style: dashed;
+    height: 300px;
+}
+#s4{
+    padding: 50px;
+    text-align: center;
+    font-size: 1em;
+    border-style: dashed;
+    height: 100px;
+}
+#s5{
+    padding: 50px;
+    text-align: center;
+    font-size: 1em;
+    border-style: dashed;
+    height: 100px;
+}
+#s6{
+    padding: 50px;
+    text-align: center;
+    font-size: 1em;
+    border-style: dashed;
+    height: 100px;
+}
