@@ -7,5 +7,11 @@ Thank you for coming along as I learn to code from scratch, I look forward to th
 - CSS
 - JavaScript
 - Bootstrap
+- mapBox
+- React
+- Formik
 ## Projects:
-coming soon!
+- PacMen-Exercise
+- Eye-Exercise
+- Real-Time-Bus-Tracker
+- First-Formik-Form
