@@ -12,7 +12,6 @@ Thank you for coming along as I learn to code from scratch, I look forward to th
 - Formik
 ## Projects:
 
-| Syntax      | Description |
 | :---        |    :----:   |
 | PacMen-Exercise     | Real-Time-Bus-Tracker       |
 | Eye-Exercise  | First-Formik-Form       |
