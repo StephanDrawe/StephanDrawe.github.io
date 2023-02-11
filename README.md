@@ -11,6 +11,10 @@ Thank you for coming along as I learn to code from scratch, I look forward to th
 - React
 - Formik
 ## Projects:
+
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
 > PacMen-Exercise
 > Eye-Exercise
 > Real-Time-Bus-Tracker
