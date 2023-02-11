@@ -4,6 +4,7 @@ As a part of my MIT bootcamp assignment, I am tasked with creating a profolio sh
 Thank you for coming along as I learn to code from scratch, I look forward to the evolution of this profolio!
 
 ## Protfolio Link:
+click bellow and check out all my projects!
 https://stephandrawe.github.io/
 
 ## Projects:
