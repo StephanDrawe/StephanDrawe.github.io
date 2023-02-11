@@ -11,7 +11,7 @@ Thank you for coming along as I learn to code from scratch, I look forward to th
 - React
 - Formik
 ## Projects:
- PacMen-Exercise
- Eye-Exercise
- Real-Time-Bus-Tracker
- First-Formik-Form
+> PacMen-Exercise
+> Eye-Exercise
+> Real-Time-Bus-Tracker
+> First-Formik-Form
