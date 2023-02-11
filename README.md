@@ -8,6 +8,7 @@ Thank you for coming along as I learn to code from scratch, I look forward to th
 ## Protfolio Link:
 
 click bellow and check out all my projects!
+
 https://stephandrawe.github.io/
 
 ## Projects:
