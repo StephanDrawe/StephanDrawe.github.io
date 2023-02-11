@@ -12,6 +12,12 @@ Thank you for coming along as I learn to code from scratch, I look forward to th
 - Formik
 ## Projects:
 
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 
