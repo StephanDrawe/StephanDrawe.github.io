@@ -12,10 +12,9 @@ Thank you for coming along as I learn to code from scratch, I look forward to th
 - Formik
 ## Projects:
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| PacMen-Exercise     | Real-Time-Bus-Tracker       | Here's this   |
-| Eye-Exercise  | First-Formik-Form       | And more      |
-
+| Syntax      | Description |
+| :---        |    :----:   |
+| PacMen-Exercise     | Real-Time-Bus-Tracker       |
+| Eye-Exercise  | First-Formik-Form       |
 
 
