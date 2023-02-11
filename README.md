@@ -12,8 +12,9 @@ Thank you for coming along as I learn to code from scratch, I look forward to th
 - Formik
 ## Projects:
 
-| :---        |    :----:   |
-| PacMen-Exercise     | Real-Time-Bus-Tracker       |
-| Eye-Exercise  | First-Formik-Form       |
-
-
+| Name:         | Description: | Tech Used:    |
+| :---          |    :----:    |          ---: |
+|   PacMen-Exercise   | Title        | Here's this   |
+|     Eye-Exercise    | Text         | And more      |
+|Real-Time-Bus-Tracker| a | a |
+|  First-Formik-Form  | a | a |
