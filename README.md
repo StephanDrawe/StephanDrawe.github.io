@@ -11,4 +11,4 @@ Thank you for coming along as I learn to code from scratch, I look forward to th
 |   PacMen-Exercise   | HTML, CSS, JS |
 |     Eye-Exercise    | HTML, CSS, JS |
 |Real-Time-Bus-Tracker| HTML, CSS, JS, MapBox |
-|  First-Formik-Form  | HTML, JSX, React, Formik, Node.js |
+|  First-Formik-Form  | HTML, CSS, JSX, React, Formik, Node.js |
