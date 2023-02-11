@@ -14,14 +14,8 @@ Thank you for coming along as I learn to code from scratch, I look forward to th
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| PacMen-Exercise     | Real-Time-Bus-Tracker       | Here's this   |
+| Eye-Exercise  | First-Formik-Form       | And more      |
 
 
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
 
-> PacMen-Exercise
-> Eye-Exercise
-> Real-Time-Bus-Tracker
-> First-Formik-Form
